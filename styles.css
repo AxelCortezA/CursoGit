@@ -6,6 +6,7 @@ body {
 }
 
 .container {
+    color: blue;
     width: 60%;
     height: 150px;
     text-align: center;

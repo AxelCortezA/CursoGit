@@ -6,9 +6,12 @@ body {
 }
 
 .container {
-    color: blue;
+    color: white;
     width: 60%;
     height: 150px;
     text-align: center;
     border: 1px solid black;
+}
+.container h1 {
+    color: blue;
 }
